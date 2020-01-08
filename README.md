@@ -1,2 +1,0 @@
-# MouseControl
-Mouse Control Example
